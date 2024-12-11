@@ -13,7 +13,7 @@ spec:
       valueFiles:
         - prometheus-values.yaml
   destination:
-    server: https://kubernetes.default.svc
+    server: https://633E64FE701AC8EC8D6E5F9705B7DF4E.yl4.us-west-2.eks.amazonaws.com
     namespace: monitoring
   syncPolicy:
     automated:
