@@ -1,5 +1,0 @@
-service:
-  type: LoadBalancer
-adminPassword: admin
-persistence:
-  enabled: true
